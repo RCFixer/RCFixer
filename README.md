@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 Я - Python Developer с более чем 5-летним коммерческим опытом разработки и внедрения программных решений. Специализируюсь на создании backend на Python. Работаю с различными технологиями, включая Django, FastAPI, Flask, Docker, и PostgreSQL. Участвовал в международных проектах и успешно реализовал несколько сложных технических решений.
 
 📍 Санкт-Петербург, Россия  
-✉️ [rcfixer@yandex.ru](mailto:rcfixer@yandex.ru)
-[![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rcfixer)
+✉️ [rcfixer@yandex.ru](mailto:rcfixer@yandex.ru)  
+[![Linkedin Badge](https://img.shields.io/badge/-RCFixer-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rcfixer)
 
 ## 🛠️ Технологический стек
 - **Языки программирования:** Python, SQL
